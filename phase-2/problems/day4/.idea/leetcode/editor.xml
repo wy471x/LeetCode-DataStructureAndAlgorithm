@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../leetcode/editor/cn/[48]旋转图像.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../leetcode/editor/cn/doc/content/[48]旋转图像.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com48" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/editor/cn/[48]旋转图像.java" />
+              <option name="titleSlug" value="rotate-image" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/editor/cn/[54]螺旋矩阵.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../leetcode/editor/cn/doc/content/[54]螺旋矩阵.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com54" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/editor/cn/[54]螺旋矩阵.java" />
+              <option name="titleSlug" value="spiral-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../leetcode/editor/cn/[59]螺旋矩阵 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../leetcode/editor/cn/doc/content/[59]螺旋矩阵 II.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com59" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/../../leetcode/editor/cn/[59]螺旋矩阵 II.java" />
+              <option name="titleSlug" value="spiral-matrix-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
